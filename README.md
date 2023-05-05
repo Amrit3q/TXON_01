@@ -9,4 +9,4 @@ Online Food Delivery Website using HTML And CSS
 ![FDW4](https://user-images.githubusercontent.com/88830850/148786965-3eb271bf-028c-4517-a4ad-8c003229e26b.PNG)
 # Feedback
 If you have any suggestions, Reach me out at
-[kanchandhoot3@gmail.com](kanchandhoot3@gmail.com)
+amritanshu030801@gmail.com
